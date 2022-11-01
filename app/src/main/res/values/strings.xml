@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan4_2018087</string>
+    <string name="deskription_menu">Televisi adalah sebuah alat penangkap siaran bergambar. Kata televisi berasal dari kata tele dan vision ; yang mempunyai arti jauh (tele) dan tampak (vision). Jadi televisi berarti tampak atau dapat melihat dari jarak jauh</string>
+    <string name="ingredients">Alumunium, Kaca, Kabel</string>
+    <string name="Resep">dirangkai sampai berbentuk televisi</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp.2.000.000</string>
+    <string name="navigation_drawer_open" > Open NavigationDrawer </string>
+    <string name="navigation_drawer_close" > Close NavigationDrawer </string>
+</resources>
